@@ -4,6 +4,6 @@
 			<img alt="logo" src="" width="300px">
 		</picture>
 		<br>
-		<a href="https://xoa.me/">xoa.me</a>
+		<a href="https://xoa.me/">remor.se</a>
 	</h3>
 </div>
